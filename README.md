@@ -115,3 +115,5 @@ Enterprise Support Available
 # Touch update: 1761427908
 
 # PR Merge: 2025-10-26 - feature/merge-9217
+
+# PR Merge: 2025-10-26 - enhancement/merge-1564
